@@ -1,0 +1,2 @@
+C:\tools\repos\SharpPrivEsc\obj\Debug\SharpPrivEsc.csproj.AssemblyReference.cache
+C:\tools\repos\SharpPrivEsc\obj\Debug\SharpPrivEsc.csproj.CoreCompileInputs.cache

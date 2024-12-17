@@ -1,0 +1,5 @@
+C:\tools\repos\SharpPrivEsc\bin\x64\Release\SharpPrivEsc.exe.config
+C:\tools\repos\SharpPrivEsc\bin\x64\Release\SharpPrivEsc.exe
+C:\tools\repos\SharpPrivEsc\obj\x64\Release\SharpPrivEsc.csproj.AssemblyReference.cache
+C:\tools\repos\SharpPrivEsc\obj\x64\Release\SharpPrivEsc.csproj.CoreCompileInputs.cache
+C:\tools\repos\SharpPrivEsc\obj\x64\Release\SharpPrivEsc.exe
